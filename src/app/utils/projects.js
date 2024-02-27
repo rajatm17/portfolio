@@ -1,0 +1,38 @@
+export const projects = [
+  {
+    title: 'RASOIpe',
+    description:
+      'A fullstack Recipe sharing application built using MERN (MongoDB, Express, React, Express)',
+    link: 'https://stripe.com',
+  },
+  {
+    title: 'Secrets',
+    description:
+      'A anonymoys secret sharing application where each user can share at most one secret',
+    link: 'https://netflix.com',
+  },
+  {
+    title: 'Todo',
+    description:
+      'MERN stack TodoList application allows users to efficiently manage their tasks.',
+    link: 'https://lovely-cajeta-6a4880.netlify.app/',
+  },
+  {
+    title: 'Exorcise',
+    description:
+      'Built a fitness app using React.js and Material UI.Utilized Fetch API to make HTTP requests to the Rapid API.',
+    link: 'https://roaring-tanuki-17147714.netlify.app/',
+  },
+  {
+    title: 'Azkaban',
+    description:
+      'E-commerce platform built with Next.js (React.js framework) and Tailwind CSS.',
+    link: 'https://next-tailwind-azkban.vercel.app/',
+  },
+  // {
+  //   title: 'Microsoft',
+  //   description:
+  //     'A multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services.',
+  //   link: 'https://microsoft.com',
+  // },
+];
