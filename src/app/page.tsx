@@ -88,6 +88,11 @@ export default function Home() {
               </li>
               <br />
               <li>
+                Won Communicode (Coding Competiton of NIT Kuruskshetra) which
+                took place on HackerRank Platform.
+              </li>
+              <br />
+              <li>
                 Earned Silver medal in the I.T.U.S.A Football tournament with
                 remarkable football skills and outstanding teamwork.
               </li>
