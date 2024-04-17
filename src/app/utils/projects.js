@@ -2,14 +2,14 @@ export const projects = [
   {
     title: 'RASOIpe',
     description:
-      'A fullstack Recipe sharing application built using MERN (MongoDB, Express, React, Express)',
-    link: 'https://stripe.com',
+      'A full-stack Recipe sharing application built using MERN (MongoDB, Express, React, Express)',
+    link: 'https://radiant-marigold-4c7868.netlify.app/',
   },
   {
     title: 'Secrets',
     description:
-      'A anonymoys secret sharing application where each user can share at most one secret',
-    link: 'https://netflix.com',
+      'The anonymous secret sharing application where each user can share at most one secret',
+    link: 'https://moonlit-cobbler-38f457.netlify.app/',
   },
   {
     title: 'Todo',
