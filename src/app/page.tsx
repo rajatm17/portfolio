@@ -1,7 +1,7 @@
 import Image from 'next/image';
 import Navbar from './components/Navbar';
 import React from 'react';
-
+import { cn } from '@/utils/cn';
 import { Spotlight } from '../app/components/ui/Spotlight';
 import { projects } from '@/app/utils/projects';
 import { HoverEffect } from '@/app/components/ui/card-hover-effect';
